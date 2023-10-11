@@ -13,7 +13,7 @@
  *  *********************************************************************************/
 #define BLYNK_TEMPLATE_ID "TMPLGJA9F1s3"
 #define BLYNK_TEMPLATE_NAME "IoT Based Fall Detection"
-#define BLYNK_AUTH_TOKEN "lcEfKwsoa_NLCfNmW3KWgomj4AL2f77p"
+#define BLYNK_AUTH_TOKEN "lcEfKwsoa_NLCfNmW3KWgomj4AL2f77sdsadp"
 
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
